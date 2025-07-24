@@ -1,4 +1,4 @@
-Para migrar do Windows 10 Home para o Windows 10 Pro sem precisar formatar o HD basta mudar a chave de ativação da sua instalação para uma referente à edição Pro.
+Para migrar do Windows 11 Home ou Home Single Language para o Windows 11 Pro sem precisar formatar o HD basta mudar a chave de ativação da sua instalação para uma que seja referente à edição Pro.
 
 Você pode fazer este procedimento indo no app Configurações, Atualização e Segurança, Ativação e clicando em "Alterar a chave do produto".
 
@@ -11,11 +11,11 @@ Windows 10 Home Single Language: BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
 Windows 10 Home Country Specific: 7B6NC-V3438-TRQG7-8TCCX-H6DDY
 Windows 10 Professional N: 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 
-Você pode, também, utilizar o comando a seguir:
+Você pode, também, utilizar o comando a seguir (Windows 11):
 
-Changepk.exe /ProductKey VK7JG-NPHTM-C97JM-9MPGT-3V66T
+changepk.exe /ProductKey VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
-Lembre-se de executar este comando pelo Prompt de Comandos (CMD) e não esquece de executá-lo como administrador.
+Lembre-se de executar este comando pelo Prompt de Comandos (CMD) e não esquece de executar o Prompt de Comandos (ou CMD) como administrador.
 
 Ah! Já ia esquecendo, o mesmo procedimento e o mesmo comando funcionam no Windows 11.
 
